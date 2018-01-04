@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="55dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/fragmentroundedbuton"
+            android:text="Satış"
+            android:textSize="35sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_height="55dp"
+            android:background="@drawable/fragmentroundedbuton"
+            android:text="Odemeler"
+            android:textSize="35sp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_height="55dp"
+            android:background="@drawable/fragmentroundedbuton"
+            android:text="qaytarmaq"
+            android:textSize="35sp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_height="55dp"
+            android:background="@drawable/fragmentroundedbuton"
+            android:text="Satis"
+            android:textSize="35sp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
