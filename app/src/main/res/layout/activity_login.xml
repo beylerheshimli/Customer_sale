@@ -61,5 +61,14 @@
             android:textColor="#ffffff"
             android:topLeftRadius="100dp"
             android:textSize="20sp"/>
+        <Button
+            android:id="@+id/o5k"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/roundeneditbuton"
+            android:text="@string/daxilol"
+            android:textColor="#ffffff"
+            android:topLeftRadius="100dp"
+            android:textSize="20sp"/>
     </LinearLayout>
 </LinearLayout>
